@@ -64,7 +64,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/hueyjeong">
-    <img src="https://github-readme-stats.vercel.app/api?username=hueyjeong" alt="Huey's GitHub stats" />
+    <img src="https://github-readme-stats-one-beige-64.vercel.app/api?username=hueyjeong" alt="Huey's GitHub stats" />
   </a>
   <br>
   <br>
